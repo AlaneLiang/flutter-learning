@@ -1,4 +1,4 @@
-<img src="pic/flutter-mark.png" align="center"/>
+<div align="center"><img src="pic/flutter-mark.png" /></div>
 
 # Flutter Learning Note
 
