@@ -1,4 +1,4 @@
-![logo](pic/flutter-mark.png)
+<div align="center"/>![logo](pic/flutter-mark.png)
 
 # Flutter Learning Note
 
