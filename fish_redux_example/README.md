@@ -1,6 +1,6 @@
-# fish_redux_example
-
+# fish_redux_example  
 A fish_redux_example Flutter application.
+<img src="https://github.com/CharmingGeeker/flutter-learning/blob/master/doc/FishRedux/pic/3-main.png"/>
 
 ## Getting Started
 
