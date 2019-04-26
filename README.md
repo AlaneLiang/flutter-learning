@@ -6,7 +6,7 @@
 
 ## Fish Redux框架
 
-1. [简介](doc/FishRedux/1.简介.md)
+1 [简介](doc/FishRedux/1.简介.md)
 
-2.[目录结构介绍](doc/FishRedux/2.目录结构介绍.md)
+2 [目录结构介绍](doc/FishRedux/2.目录结构介绍.md)
 
