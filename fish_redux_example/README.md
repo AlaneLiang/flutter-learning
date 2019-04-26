@@ -1,7 +1,7 @@
 # fish_redux_example  
 A fish_redux_example Flutter application.   
 
-<img src="https://github.com/CharmingGeeker/flutter-learning/blob/master/doc/FishRedux/pic/3-main.png"/>
+<img src="https://github.com/CharmingGeeker/flutter-learning/blob/master/doc/FishRedux/pic/3-main.png" width="200px" height="320px"/>
 
 ## Getting Started
 
