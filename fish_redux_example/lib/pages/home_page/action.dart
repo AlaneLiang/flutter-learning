@@ -6,7 +6,7 @@ enum HomeAction { initCounter,openSecond }
 
 class HomeActionCreator {
   static Action initCounterAction(CounterState counterState) {
-    println('Homeaction:update');
+    println('Homeaction:initCounterAction');
     return  Action(HomeAction.initCounter, payload: counterState);
   }
 

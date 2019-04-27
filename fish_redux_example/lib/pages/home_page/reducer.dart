@@ -8,7 +8,7 @@ Reducer<HomeState> buildReducer() {
   return asReducer(
       <Object, Reducer<HomeState>>{
     //这里添加要监听的Action
-        HomeAction.initCounter: _init,  //HomeAction.update
+        HomeAction.initCounter: _init,  //HomeAction.initCounter
   });
 }
 
